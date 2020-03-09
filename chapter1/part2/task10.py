@@ -1,0 +1,11 @@
+string = str(input('введите строку: '))
+reversString = string[::-1]
+print(string[2])
+print(string[-2])
+print(string[0:5])
+print(string[0:-2])
+print(string[0::2])
+print(string[1::2])
+print(reversString)
+print(reversString[1::2])
+print(len(string))
